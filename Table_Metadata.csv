@@ -1,0 +1,353 @@
+Table_Name,Variable_Name,Type,new_names,Table_ID,old_names
+Residence type,Total,Value,ts0010001,ts001,Residence type: Total; measures: Value
+Residence type,Lives in a household,Value,ts0010002,ts001,Residence type: Lives in a household; measures: Value
+Residence type,Lives in a communal establishment,Value,ts0010003,ts001,Residence type: Lives in a communal establishment; measures: Value
+Marital and civil partnership status,Total,Value,ts0020001,ts002,Marital and civil partnership status: Total; measures: Value
+Marital and civil partnership status,Never married and never registered a civil partnership,Value,ts0020002,ts002,Marital and civil partnership status: Never married and never registered a civil partnership; measures: Value
+Marital and civil partnership status,Married or in a registered civil partnership,Value,ts0020003,ts002,Marital and civil partnership status: Married or in a registered civil partnership; measures: Value
+Marital and civil partnership status,Married or in a registered civil partnership: Married,Value,ts0020004,ts002,Marital and civil partnership status: Married or in a registered civil partnership: Married; measures: Value
+Marital and civil partnership status,Married or in a registered civil partnership: Married: Opposite sex,Value,ts0020005,ts002,Marital and civil partnership status: Married or in a registered civil partnership: Married: Opposite sex; measures: Value
+Marital and civil partnership status,Married or in a registered civil partnership: Married: Same sex,Value,ts0020006,ts002,Marital and civil partnership status: Married or in a registered civil partnership: Married: Same sex; measures: Value
+Marital and civil partnership status,Married or in a registered civil partnership: In a registered civil partnership,Value,ts0020007,ts002,Marital and civil partnership status: Married or in a registered civil partnership: In a registered civil partnership; measures: Value
+Marital and civil partnership status,Married or in a registered civil partnership: In a registered civil partnership: Opposite sex,Value,ts0020008,ts002,Marital and civil partnership status: Married or in a registered civil partnership: In a registered civil partnership: Opposite sex; measures: Value
+Marital and civil partnership status,Married or in a registered civil partnership: In a registered civil partnership: Same sex,Value,ts0020009,ts002,Marital and civil partnership status: Married or in a registered civil partnership: In a registered civil partnership: Same sex; measures: Value
+Marital and civil partnership status,"Separated, but still legally married or still legally in a civil partnership",Value,ts0020010,ts002,"Marital and civil partnership status: Separated, but still legally married or still legally in a civil partnership; measures: Value"
+Marital and civil partnership status,"Separated, but still legally married or still legally in a civil partnership: Separated, but still married",Value,ts0020011,ts002,"Marital and civil partnership status: Separated, but still legally married or still legally in a civil partnership: Separated, but still married; measures: Value"
+Marital and civil partnership status,"Separated, but still legally married or still legally in a civil partnership: Separated, but still in a registered civil partnership",Value,ts0020012,ts002,"Marital and civil partnership status: Separated, but still legally married or still legally in a civil partnership: Separated, but still in a registered civil partnership; measures: Value"
+Marital and civil partnership status,Divorced or civil partnership dissolved,Value,ts0020013,ts002,Marital and civil partnership status: Divorced or civil partnership dissolved; measures: Value
+Marital and civil partnership status,Divorced or civil partnership dissolved: Divorced,Value,ts0020014,ts002,Marital and civil partnership status: Divorced or civil partnership dissolved: Divorced; measures: Value
+Marital and civil partnership status,Divorced or civil partnership dissolved: Formerly in a civil partnership now legally dissolved,Value,ts0020015,ts002,Marital and civil partnership status: Divorced or civil partnership dissolved: Formerly in a civil partnership now legally dissolved; measures: Value
+Marital and civil partnership status,Widowed or surviving civil partnership partner,Value,ts0020016,ts002,Marital and civil partnership status: Widowed or surviving civil partnership partner; measures: Value
+Marital and civil partnership status,Widowed or surviving civil partnership partner: Widowed,Value,ts0020017,ts002,Marital and civil partnership status: Widowed or surviving civil partnership partner: Widowed; measures: Value
+Marital and civil partnership status,Widowed or surviving civil partnership partner: Surviving partner from civil partnership,Value,ts0020018,ts002,Marital and civil partnership status: Widowed or surviving civil partnership partner: Surviving partner from civil partnership; measures: Value
+Household composition,Total,Value,ts0030001,ts003,Household composition: Total; measures: Value
+Household composition,One person household,Value,ts0030002,ts003,Household composition: One person household; measures: Value
+Household composition,One person household: Aged 66 years and over,Value,ts0030003,ts003,Household composition: One person household: Aged 66 years and over; measures: Value
+Household composition,One person household: Other,Value,ts0030004,ts003,Household composition: One person household: Other; measures: Value
+Household composition,Single family household,Value,ts0030005,ts003,Household composition: Single family household; measures: Value
+Household composition,Single family household: All aged 66 years and over,Value,ts0030006,ts003,Household composition: Single family household: All aged 66 years and over; measures: Value
+Household composition,Single family household: Married or civil partnership couple,Value,ts0030007,ts003,Household composition: Single family household: Married or civil partnership couple; measures: Value
+Household composition,Single family household: Married or civil partnership couple: No children,Value,ts0030008,ts003,Household composition: Single family household: Married or civil partnership couple: No children; measures: Value
+Household composition,Single family household: Married or civil partnership couple: Dependent children,Value,ts0030009,ts003,Household composition: Single family household: Married or civil partnership couple: Dependent children; measures: Value
+Household composition,Single family household: Married or civil partnership couple: All children non-dependent,Value,ts0030010,ts003,Household composition: Single family household: Married or civil partnership couple: All children non-dependent; measures: Value
+Household composition,Single family household: Cohabiting couple family,Value,ts0030011,ts003,Household composition: Single family household: Cohabiting couple family; measures: Value
+Household composition,Single family household: Cohabiting couple family: No children,Value,ts0030012,ts003,Household composition: Single family household: Cohabiting couple family: No children; measures: Value
+Household composition,Single family household: Cohabiting couple family: With dependent children,Value,ts0030013,ts003,Household composition: Single family household: Cohabiting couple family: With dependent children; measures: Value
+Household composition,Single family household: Cohabiting couple family: All children non-dependent,Value,ts0030014,ts003,Household composition: Single family household: Cohabiting couple family: All children non-dependent; measures: Value
+Household composition,Single family household: Lone parent family,Value,ts0030015,ts003,Household composition: Single family household: Lone parent family; measures: Value
+Household composition,Single family household: Lone parent family: With dependent children,Value,ts0030016,ts003,Household composition: Single family household: Lone parent family: With dependent children; measures: Value
+Household composition,Single family household: Lone parent family: All children non-dependent,Value,ts0030017,ts003,Household composition: Single family household: Lone parent family: All children non-dependent; measures: Value
+Household composition,Single family household: Other single family household,Value,ts0030018,ts003,Household composition: Single family household: Other single family household; measures: Value
+Household composition,Single family household: Other single family household: Other family composition,Value,ts0030019,ts003,Household composition: Single family household: Other single family household: Other family composition; measures: Value
+Household composition,Other household types,Value,ts0030020,ts003,Household composition: Other household types; measures: Value
+Household composition,Other household types: With dependent children,Value,ts0030021,ts003,Household composition: Other household types: With dependent children; measures: Value
+Household composition,"Other household types: Other, including all full-time students and all aged 66 years and over",Value,ts0030022,ts003,"Household composition: Other household types: Other, including all full-time students and all aged 66 years and over; measures: Value"
+Country of birth,Total,Value,ts0040001,ts004,Country of birth: Total; measures: Value
+Country of birth,Europe,Value,ts0040002,ts004,Country of birth: Europe; measures: Value
+Country of birth,Europe: United Kingdom,Value,ts0040003,ts004,Country of birth: Europe: United Kingdom; measures: Value
+Country of birth,Europe: EU countries,Value,ts0040004,ts004,Country of birth: Europe: EU countries; measures: Value
+Country of birth,Europe: EU countries: European Union EU14,Value,ts0040005,ts004,Country of birth: Europe: EU countries: European Union EU14; measures: Value
+Country of birth,Europe: EU countries: European Union EU8,Value,ts0040006,ts004,Country of birth: Europe: EU countries: European Union EU8; measures: Value
+Country of birth,Europe: EU countries: European Union EU2,Value,ts0040007,ts004,Country of birth: Europe: EU countries: European Union EU2; measures: Value
+Country of birth,Europe: EU countries: All other EU countries,Value,ts0040008,ts004,Country of birth: Europe: EU countries: All other EU countries; measures: Value
+Country of birth,Europe: Non-EU countries,Value,ts0040009,ts004,Country of birth: Europe: Non-EU countries; measures: Value
+Country of birth,Europe: Non-EU countries: All other non-EU countries,Value,ts0040010,ts004,Country of birth: Europe: Non-EU countries: All other non-EU countries; measures: Value
+Country of birth,Africa,Value,ts0040011,ts004,Country of birth: Africa; measures: Value
+Country of birth,Middle East and Asia,Value,ts0040012,ts004,Country of birth: Middle East and Asia; measures: Value
+Country of birth,The Americas and the Caribbean,Value,ts0040013,ts004,Country of birth: The Americas and the Caribbean; measures: Value
+Country of birth,Antarctica and Oceania (including Australasia) and Other,Value,ts0040014,ts004,Country of birth: Antarctica and Oceania (including Australasia) and Other; measures: Value
+Country of birth,British Overseas ,Value,ts0040015,ts004,Country of birth: British Overseas ; measures: Value
+Passports held,Total,Value,ts0050001,ts005,Passports held: Total; measures: Value
+Passports held,Europe,Value,ts0050002,ts005,Passports held: Europe; measures: Value
+Passports held,Europe: United Kingdom,Value,ts0050003,ts005,Passports held: Europe: United Kingdom; measures: Value
+Passports held,Europe: Ireland,Value,ts0050004,ts005,Passports held: Europe: Ireland; measures: Value
+Passports held,Europe: Other Europe,Value,ts0050005,ts005,Passports held: Europe: Other Europe; measures: Value
+Passports held,Europe: Other Europe: EU Member countries,Value,ts0050006,ts005,Passports held: Europe: Other Europe: EU Member countries; measures: Value
+Passports held,Europe: Other Europe: EU Member countries: France,Value,ts0050007,ts005,Passports held: Europe: Other Europe: EU Member countries: France; measures: Value
+Passports held,Europe: Other Europe: EU Member countries: Germany,Value,ts0050008,ts005,Passports held: Europe: Other Europe: EU Member countries: Germany; measures: Value
+Passports held,Europe: Other Europe: EU Member countries: Italy,Value,ts0050009,ts005,Passports held: Europe: Other Europe: EU Member countries: Italy; measures: Value
+Passports held,Europe: Other Europe: EU Member countries: Portugal,Value,ts0050010,ts005,Passports held: Europe: Other Europe: EU Member countries: Portugal; measures: Value
+Passports held,Europe: Other Europe: EU Member countries: Spain,Value,ts0050011,ts005,Passports held: Europe: Other Europe: EU Member countries: Spain; measures: Value
+Passports held,Europe: Other Europe: EU Member countries: Lithuania,Value,ts0050012,ts005,Passports held: Europe: Other Europe: EU Member countries: Lithuania; measures: Value
+Passports held,Europe: Other Europe: EU Member countries: Poland,Value,ts0050013,ts005,Passports held: Europe: Other Europe: EU Member countries: Poland; measures: Value
+Passports held,Europe: Other Europe: EU Member countries: Romania,Value,ts0050014,ts005,Passports held: Europe: Other Europe: EU Member countries: Romania; measures: Value
+Passports held,Europe: Other Europe: EU Member countries: Other EU countries,Value,ts0050015,ts005,Passports held: Europe: Other Europe: EU Member countries: Other EU countries; measures: Value
+Passports held,Europe: Other Europe: Rest of Europe,Value,ts0050016,ts005,Passports held: Europe: Other Europe: Rest of Europe; measures: Value
+Passports held,Europe: Other Europe: Rest of Europe: Turkey,Value,ts0050017,ts005,Passports held: Europe: Other Europe: Rest of Europe: Turkey; measures: Value
+Passports held,Europe: Other Europe: Rest of Europe: Other Europe,Value,ts0050018,ts005,Passports held: Europe: Other Europe: Rest of Europe: Other Europe; measures: Value
+Passports held,Africa,Value,ts0050019,ts005,Passports held: Africa; measures: Value
+Passports held,Africa: North Africa,Value,ts0050020,ts005,Passports held: Africa: North Africa; measures: Value
+Passports held,Africa: Central and Western Africa,Value,ts0050021,ts005,Passports held: Africa: Central and Western Africa; measures: Value
+Passports held,Africa: South and Eastern Africa,Value,ts0050022,ts005,Passports held: Africa: South and Eastern Africa; measures: Value
+Passports held,Middle East and Asia,Value,ts0050023,ts005,Passports held: Middle East and Asia; measures: Value
+Passports held,Middle East and Asia: Middle East,Value,ts0050024,ts005,Passports held: Middle East and Asia: Middle East; measures: Value
+Passports held,Middle East and Asia: Eastern Asia,Value,ts0050025,ts005,Passports held: Middle East and Asia: Eastern Asia; measures: Value
+Passports held,Middle East and Asia: Southern Asia,Value,ts0050026,ts005,Passports held: Middle East and Asia: Southern Asia; measures: Value
+Passports held,Middle East and Asia: South-East Asia,Value,ts0050027,ts005,Passports held: Middle East and Asia: South-East Asia; measures: Value
+Passports held,Middle East and Asia: Central Asia,Value,ts0050028,ts005,Passports held: Middle East and Asia: Central Asia; measures: Value
+Passports held,The Americas and the Caribbean,Value,ts0050029,ts005,Passports held: The Americas and the Caribbean; measures: Value
+Passports held,The Americas and the Caribbean: North America and the Caribbean,Value,ts0050030,ts005,Passports held: The Americas and the Caribbean: North America and the Caribbean; measures: Value
+Passports held,The Americas and the Caribbean: Central and South America,Value,ts0050031,ts005,Passports held: The Americas and the Caribbean: Central and South America; measures: Value
+Passports held,"Antarctica and Oceania, including Australasia",Value,ts0050032,ts005,"Passports held: Antarctica and Oceania, including Australasia; measures: Value"
+Passports held,British Overseas Territories,Value,ts0050033,ts005,Passports held: British Overseas Territories; measures: Value
+Passports held,No passport held,Value,ts0050034,ts005,Passports held: No passport held; measures: Value
+Population Density,Persons per square kilometre,Value,ts0060001,ts006,Population Density: Persons per square kilometre; measures: Value
+Sex,All persons,Value,ts0080001,ts008,Sex: All persons; measures: Value
+Sex,Female,Value,ts0080002,ts008,Sex: Female; measures: Value
+Sex,Male,Value,ts0080003,ts008,Sex: Male; measures: Value
+Household deprivation,Total: All households,Value,ts0110001,ts011,Household deprivation: Total: All households; measures: Value
+Household deprivation,Household is not deprived in any dimension,Value,ts0110002,ts011,Household deprivation: Household is not deprived in any dimension; measures: Value
+Household deprivation,Household is deprived in one dimension,Value,ts0110003,ts011,Household deprivation: Household is deprived in one dimension; measures: Value
+Household deprivation,Household is deprived in two dimensions,Value,ts0110004,ts011,Household deprivation: Household is deprived in two dimensions; measures: Value
+Household deprivation,Household is deprived in three dimensions,Value,ts0110005,ts011,Household deprivation: Household is deprived in three dimensions; measures: Value
+Household deprivation,Household is deprived in four dimensions,Value,ts0110006,ts011,Household deprivation: Household is deprived in four dimensions; measures: Value
+Year of arrival in the UK,Total: All usual residents,Value,ts0150001,ts015,Year of arrival in the UK: Total: All usual residents; measures: Value
+Year of arrival in the UK,Born in the UK,Value,ts0150002,ts015,Year of arrival in the UK: Born in the UK; measures: Value
+Year of arrival in the UK,Arrived before 1951,Value,ts0150003,ts015,Year of arrival in the UK: Arrived before 1951; measures: Value
+Year of arrival in the UK,Arrived 1951 to 1960,Value,ts0150004,ts015,Year of arrival in the UK: Arrived 1951 to 1960; measures: Value
+Year of arrival in the UK,Arrived 1961 to 1970,Value,ts0150005,ts015,Year of arrival in the UK: Arrived 1961 to 1970; measures: Value
+Year of arrival in the UK,Arrived 1971 to 1980,Value,ts0150006,ts015,Year of arrival in the UK: Arrived 1971 to 1980; measures: Value
+Year of arrival in the UK,Arrived 1981 to 1990,Value,ts0150007,ts015,Year of arrival in the UK: Arrived 1981 to 1990; measures: Value
+Year of arrival in the UK,Arrived 1991 to 2000,Value,ts0150008,ts015,Year of arrival in the UK: Arrived 1991 to 2000; measures: Value
+Year of arrival in the UK,Arrived 2001 to 2010,Value,ts0150009,ts015,Year of arrival in the UK: Arrived 2001 to 2010; measures: Value
+Year of arrival in the UK,Arrived 2011 to 2013,Value,ts0150010,ts015,Year of arrival in the UK: Arrived 2011 to 2013; measures: Value
+Year of arrival in the UK,Arrived 2014 to 2016,Value,ts0150011,ts015,Year of arrival in the UK: Arrived 2014 to 2016; measures: Value
+Year of arrival in the UK,Arrived 2017 to 2019,Value,ts0150012,ts015,Year of arrival in the UK: Arrived 2017 to 2019; measures: Value
+Year of arrival in the UK,Arrived 2020 to 2021,Value,ts0150013,ts015,Year of arrival in the UK: Arrived 2020 to 2021; measures: Value
+Length of residence in the UK,Total: All usual residents,Value,ts0160001,ts016,Length of residence in the UK: Total: All usual residents; measures: Value
+Length of residence in the UK,Born in the UK,Value,ts0160002,ts016,Length of residence in the UK: Born in the UK; measures: Value
+Length of residence in the UK,10 years or more,Value,ts0160003,ts016,Length of residence in the UK: 10 years or more; measures: Value
+Length of residence in the UK,"5 years or more, but less than 10 years",Value,ts0160004,ts016,"Length of residence in the UK: 5 years or more, but less than 10 years; measures: Value"
+Length of residence in the UK,"2 years or more, but less than 5 years",Value,ts0160005,ts016,"Length of residence in the UK: 2 years or more, but less than 5 years; measures: Value"
+Length of residence in the UK,Less than 2 years,Value,ts0160006,ts016,Length of residence in the UK: Less than 2 years; measures: Value
+Household size,Total: All household spaces,Value,ts0170001,ts017,Household size: Total: All household spaces; measures: Value
+Household size,0 people in household,Value,ts0170002,ts017,Household size: 0 people in household; measures: Value
+Household size,1 person in household,Value,ts0170003,ts017,Household size: 1 person in household; measures: Value
+Household size,2 people in household,Value,ts0170004,ts017,Household size: 2 people in household; measures: Value
+Household size,3 people in household,Value,ts0170005,ts017,Household size: 3 people in household; measures: Value
+Household size,4 people in household,Value,ts0170006,ts017,Household size: 4 people in household; measures: Value
+Household size,5 people in household,Value,ts0170007,ts017,Household size: 5 people in household; measures: Value
+Household size,6 people in household,Value,ts0170008,ts017,Household size: 6 people in household; measures: Value
+Household size,7 people in household,Value,ts0170009,ts017,Household size: 7 people in household; measures: Value
+Household size,8 or more people in household,Value,ts0170010,ts017,Household size: 8 or more people in household; measures: Value
+Age of arrival in the UK,Total: All usual residents,Value,ts0180001,ts018,Age of arrival in the UK: Total: All usual residents; measures: Value
+Age of arrival in the UK,Born in the UK,Value,ts0180002,ts018,Age of arrival in the UK: Born in the UK; measures: Value
+Age of arrival in the UK,Arrived in the UK,Value,ts0180003,ts018,Age of arrival in the UK: Arrived in the UK; measures: Value
+Age of arrival in the UK,Arrived in the UK: Aged 0 to 4 years,Value,ts0180004,ts018,Age of arrival in the UK: Arrived in the UK: Aged 0 to 4 years; measures: Value
+Age of arrival in the UK,Arrived in the UK: Aged 5 to 7 years,Value,ts0180005,ts018,Age of arrival in the UK: Arrived in the UK: Aged 5 to 7 years; measures: Value
+Age of arrival in the UK,Arrived in the UK: Aged 8 to 9 years,Value,ts0180006,ts018,Age of arrival in the UK: Arrived in the UK: Aged 8 to 9 years; measures: Value
+Age of arrival in the UK,Arrived in the UK: Aged 10 to 14 years,Value,ts0180007,ts018,Age of arrival in the UK: Arrived in the UK: Aged 10 to 14 years; measures: Value
+Age of arrival in the UK,Arrived in the UK: Aged 15 years,Value,ts0180008,ts018,Age of arrival in the UK: Arrived in the UK: Aged 15 years; measures: Value
+Age of arrival in the UK,Arrived in the UK: Aged 16 to 17 years,Value,ts0180009,ts018,Age of arrival in the UK: Arrived in the UK: Aged 16 to 17 years; measures: Value
+Age of arrival in the UK,Arrived in the UK: Aged 18 to 19 years,Value,ts0180010,ts018,Age of arrival in the UK: Arrived in the UK: Aged 18 to 19 years; measures: Value
+Age of arrival in the UK,Arrived in the UK: Aged 20 to 24 years,Value,ts0180011,ts018,Age of arrival in the UK: Arrived in the UK: Aged 20 to 24 years; measures: Value
+Age of arrival in the UK,Arrived in the UK: Aged 25 to 29 years,Value,ts0180012,ts018,Age of arrival in the UK: Arrived in the UK: Aged 25 to 29 years; measures: Value
+Age of arrival in the UK,Arrived in the UK: Aged 30 to 44 years,Value,ts0180013,ts018,Age of arrival in the UK: Arrived in the UK: Aged 30 to 44 years; measures: Value
+Age of arrival in the UK,Arrived in the UK: Aged 45 to 59 years,Value,ts0180014,ts018,Age of arrival in the UK: Arrived in the UK: Aged 45 to 59 years; measures: Value
+Age of arrival in the UK,Arrived in the UK: Aged 60 to 64 years,Value,ts0180015,ts018,Age of arrival in the UK: Arrived in the UK: Aged 60 to 64 years; measures: Value
+Age of arrival in the UK,Arrived in the UK: Aged 65 to 74 years,Value,ts0180016,ts018,Age of arrival in the UK: Arrived in the UK: Aged 65 to 74 years; measures: Value
+Age of arrival in the UK,Arrived in the UK: Aged 75 to 84 years,Value,ts0180017,ts018,Age of arrival in the UK: Arrived in the UK: Aged 75 to 84 years; measures: Value
+Age of arrival in the UK,Arrived in the UK: Aged 85 to 89 years,Value,ts0180018,ts018,Age of arrival in the UK: Arrived in the UK: Aged 85 to 89 years; measures: Value
+Age of arrival in the UK,Arrived in the UK: Aged 90 years and over,Value,ts0180019,ts018,Age of arrival in the UK: Arrived in the UK: Aged 90 years and over; measures: Value
+Migrant indicator,Total: All usual residents,Value,ts0190001,ts019,Migrant indicator: Total: All usual residents; measures: Value
+Migrant indicator,Address one year ago is the same as the address of enumeration,Value,ts0190002,ts019,Migrant indicator: Address one year ago is the same as the address of enumeration; measures: Value
+Migrant indicator,Address one year ago is student term-time or boarding school address in the UK,Value,ts0190003,ts019,Migrant indicator: Address one year ago is student term-time or boarding school address in the UK; measures: Value
+Migrant indicator,Migrant from within the UK: Address one year ago was in the UK,Value,ts0190004,ts019,Migrant indicator: Migrant from within the UK: Address one year ago was in the UK; measures: Value
+Migrant indicator,Migrant from outside the UK: Address one year ago was outside the UK,Value,ts0190005,ts019,Migrant indicator: Migrant from outside the UK: Address one year ago was outside the UK; measures: Value
+Sex,All persons,Value,ts0200001,ts020,Sex: All persons; measures: Value
+Sex,Female,Value,ts0200002,ts020,Sex: Female; measures: Value
+Sex,Male,Value,ts0200003,ts020,Sex: Male; measures: Value
+Number of households,Number of households,Value,ts0410001,ts041,Number of households: Number of households; measures: Value
+Ethnic group,Total: All usual residents,NA,ts0210001,ts021,Ethnic group: Total: All usual residents
+Ethnic group,"Asian, Asian British or Asian Welsh",NA,ts0210002,ts021,"Ethnic group: Asian, Asian British or Asian Welsh"
+Ethnic group,"Asian, Asian British or Asian Welsh: Bangladeshi",NA,ts0210003,ts021,"Ethnic group: Asian, Asian British or Asian Welsh: Bangladeshi"
+Ethnic group,"Asian, Asian British or Asian Welsh: Chinese",NA,ts0210004,ts021,"Ethnic group: Asian, Asian British or Asian Welsh: Chinese"
+Ethnic group,"Asian, Asian British or Asian Welsh: Indian",NA,ts0210005,ts021,"Ethnic group: Asian, Asian British or Asian Welsh: Indian"
+Ethnic group,"Asian, Asian British or Asian Welsh: Pakistani",NA,ts0210006,ts021,"Ethnic group: Asian, Asian British or Asian Welsh: Pakistani"
+Ethnic group,"Asian, Asian British or Asian Welsh: Other Asian",NA,ts0210007,ts021,"Ethnic group: Asian, Asian British or Asian Welsh: Other Asian"
+Ethnic group,"Black, Black British, Black Welsh, Caribbean or African",NA,ts0210008,ts021,"Ethnic group: Black, Black British, Black Welsh, Caribbean or African"
+Ethnic group,"Black, Black British, Black Welsh, Caribbean or African: African",NA,ts0210009,ts021,"Ethnic group: Black, Black British, Black Welsh, Caribbean or African: African"
+Ethnic group,"Black, Black British, Black Welsh, Caribbean or African: Caribbean",NA,ts0210010,ts021,"Ethnic group: Black, Black British, Black Welsh, Caribbean or African: Caribbean"
+Ethnic group,"Black, Black British, Black Welsh, Caribbean or African: Other Black",NA,ts0210011,ts021,"Ethnic group: Black, Black British, Black Welsh, Caribbean or African: Other Black"
+Ethnic group,Mixed or Multiple ethnic groups,NA,ts0210012,ts021,Ethnic group: Mixed or Multiple ethnic groups
+Ethnic group,Mixed or Multiple ethnic groups: White and Asian,NA,ts0210013,ts021,Ethnic group: Mixed or Multiple ethnic groups: White and Asian
+Ethnic group,Mixed or Multiple ethnic groups: White and Black African,NA,ts0210014,ts021,Ethnic group: Mixed or Multiple ethnic groups: White and Black African
+Ethnic group,Mixed or Multiple ethnic groups: White and Black Caribbean,NA,ts0210015,ts021,Ethnic group: Mixed or Multiple ethnic groups: White and Black Caribbean
+Ethnic group,Mixed or Multiple ethnic groups: Other Mixed or Multiple ethnic groups,NA,ts0210016,ts021,Ethnic group: Mixed or Multiple ethnic groups: Other Mixed or Multiple ethnic groups
+Ethnic group,White,NA,ts0210017,ts021,Ethnic group: White
+Ethnic group,"White: English, Welsh, Scottish, Northern Irish or British",NA,ts0210018,ts021,"Ethnic group: White: English, Welsh, Scottish, Northern Irish or British"
+Ethnic group,White: Irish,NA,ts0210019,ts021,Ethnic group: White: Irish
+Ethnic group,White: Gypsy or Irish Traveller,NA,ts0210020,ts021,Ethnic group: White: Gypsy or Irish Traveller
+Ethnic group,White: Roma,NA,ts0210021,ts021,Ethnic group: White: Roma
+Ethnic group,White: Other White,NA,ts0210022,ts021,Ethnic group: White: Other White
+Ethnic group,Other ethnic group,NA,ts0210023,ts021,Ethnic group: Other ethnic group
+Ethnic group,Other ethnic group: Arab,NA,ts0210024,ts021,Ethnic group: Other ethnic group: Arab
+Ethnic group,Other ethnic group: Any other ethnic group,NA,ts0210025,ts021,Ethnic group: Other ethnic group: Any other ethnic group
+Multiple ethnic groups in household,Total: All households,NA,ts0230001,ts023,Multiple ethnic groups in household: Total: All households
+Multiple ethnic groups in household,One-person household,NA,ts0230002,ts023,Multiple ethnic groups in household: One-person household
+Multiple ethnic groups in household,All household members have the same ethnic group,NA,ts0230003,ts023,Multiple ethnic groups in household: All household members have the same ethnic group
+Multiple ethnic groups in household,Ethnic groups differ between generations but not within partnerships,NA,ts0230004,ts023,Multiple ethnic groups in household: Ethnic groups differ between generations but not within partnerships
+Multiple ethnic groups in household,Ethnic groups differ within partnerships,NA,ts0230005,ts023,Multiple ethnic groups in household: Ethnic groups differ within partnerships
+Multiple ethnic groups in household,Any other combination of multiple ethnic identities,NA,ts0230006,ts023,Multiple ethnic groups in household: Any other combination of multiple ethnic identities
+Household language (English and Welsh),Household language (English and Welsh): Total: All households,NA,ts0250001,ts025,Household language (English and Welsh): Total: All households
+Household language (English and Welsh),"Household language (English and Welsh): All adults in household have English in England, or English or Welsh in Wales as a main language",NA,ts0250002,ts025,"Household language (English and Welsh): All adults in household have English in England, or English or Welsh in Wales as a main language"
+Household language (English and Welsh),"Household language (English and Welsh): At least one but not all adults in household have English in England, or English or Welsh in Wales as a main language",NA,ts0250003,ts025,"Household language (English and Welsh): At least one but not all adults in household have English in England, or English or Welsh in Wales as a main language"
+Household language (English and Welsh),"Household language (English and Welsh): No adults in household, but at least one person aged 3 to 15 years, has English in England or English or Welsh in Wales as a main language",NA,ts0250004,ts025,"Household language (English and Welsh): No adults in household, but at least one person aged 3 to 15 years, has English in England or English or Welsh in Wales as a main language"
+Household language (English and Welsh),"Household language (English and Welsh): No people in household have English in England, or English or Welsh in Wales as a main language",NA,ts0250005,ts025,"Household language (English and Welsh): No people in household have English in England, or English or Welsh in Wales as a main language"
+Multiple main languages in household,Total: All households,NA,ts0260001,ts026,Multiple main languages in household: Total: All households
+Multiple main languages in household,One-person household,NA,ts0260002,ts026,Multiple main languages in household: One-person household
+Multiple main languages in household,All household members have the same main language,NA,ts0260003,ts026,Multiple main languages in household: All household members have the same main language
+Multiple main languages in household,"Main language differs between generations, but not within partnerships",NA,ts0260004,ts026,"Multiple main languages in household: Main language differs between generations, but not within partnerships"
+Multiple main languages in household,Main language differs within partnerships,NA,ts0260005,ts026,Multiple main languages in household: Main language differs within partnerships
+Multiple main languages in household,Any other combination of multiple main languages,NA,ts0260006,ts026,Multiple main languages in household: Any other combination of multiple main languages
+National identity,Total: All usual residents,NA,ts0270001,ts027,National identity: Total: All usual residents
+National identity,British only identity,NA,ts0270002,ts027,National identity: British only identity
+National identity,English only identity,NA,ts0270003,ts027,National identity: English only identity
+National identity,English and British only identity,NA,ts0270004,ts027,National identity: English and British only identity
+National identity,Welsh only identity,NA,ts0270005,ts027,National identity: Welsh only identity
+National identity,Welsh and British only identity,NA,ts0270006,ts027,National identity: Welsh and British only identity
+National identity,Any other combination of only UK identities...10,NA,ts0270007,ts027,National identity: Any other combination of only UK identities...10
+National identity,Scottish only identity,NA,ts0270008,ts027,National identity: Scottish only identity
+National identity,Scottish and British only identity,NA,ts0270009,ts027,National identity: Scottish and British only identity
+National identity,Northern Irish only identity,NA,ts0270010,ts027,National identity: Northern Irish only identity
+National identity,Northern Irish and British only identity,NA,ts0270011,ts027,National identity: Northern Irish and British only identity
+National identity,Cornish only identity,NA,ts0270012,ts027,National identity: Cornish only identity
+National identity,Cornish and British only identity,NA,ts0270013,ts027,National identity: Cornish and British only identity
+National identity,Any other combination of only UK identities...17,NA,ts0270014,ts027,National identity: Any other combination of only UK identities...17
+National identity,Irish only identity,NA,ts0270015,ts027,National identity: Irish only identity
+National identity,Irish and at least one UK identity,NA,ts0270016,ts027,National identity: Irish and at least one UK identity
+National identity,Other identity only,NA,ts0270017,ts027,National identity: Other identity only
+National identity,Other identity and at least one UK identity,NA,ts0270018,ts027,National identity: Other identity and at least one UK identity
+National identity,Non-UK identity only,NA,ts0270019,ts027,National identity: Non-UK identity only
+National identity,UK identity and non-UK identity,NA,ts0270020,ts027,National identity: UK identity and non-UK identity
+Proficiency in English language,Total: All usual residents aged 3 years and over,NA,ts0290001,ts029,Proficiency in English language: Total: All usual residents aged 3 years and over
+Proficiency in English language,Main language is English (English or Welsh in Wales),NA,ts0290002,ts029,Proficiency in English language: Main language is English (English or Welsh in Wales)
+Proficiency in English language,Main language is not English (English or Welsh in Wales),NA,ts0290003,ts029,Proficiency in English language: Main language is not English (English or Welsh in Wales)
+Proficiency in English language,Main language is not English (English or Welsh in Wales): Can speak English very well,NA,ts0290004,ts029,Proficiency in English language: Main language is not English (English or Welsh in Wales): Can speak English very well
+Proficiency in English language,Main language is not English (English or Welsh in Wales): Can speak English well,NA,ts0290005,ts029,Proficiency in English language: Main language is not English (English or Welsh in Wales): Can speak English well
+Proficiency in English language,Main language is not English (English or Welsh in Wales): Cannot speak English well,NA,ts0290006,ts029,Proficiency in English language: Main language is not English (English or Welsh in Wales): Cannot speak English well
+Proficiency in English language,Main language is not English (English or Welsh in Wales): Cannot speak English,NA,ts0290007,ts029,Proficiency in English language: Main language is not English (English or Welsh in Wales): Cannot speak English
+Religion,Total: All usual residents,NA,ts0300001,ts030,Religion: Total: All usual residents
+Religion,No religion,NA,ts0300002,ts030,Religion: No religion
+Religion,Christian,NA,ts0300003,ts030,Religion: Christian
+Religion,Buddhist,NA,ts0300004,ts030,Religion: Buddhist
+Religion,Hindu,NA,ts0300005,ts030,Religion: Hindu
+Religion,Jewish,NA,ts0300006,ts030,Religion: Jewish
+Religion,Muslim,NA,ts0300007,ts030,Religion: Muslim
+Religion,Sikh,NA,ts0300008,ts030,Religion: Sikh
+Religion,Other religion,NA,ts0300009,ts030,Religion: Other religion
+Religion,Not answered,NA,ts0300010,ts030,Religion: Not answered
+Multi religion household,Total,NA,ts0750001,ts075,Multi religion household: Total
+Multi religion household,One-person household,NA,ts0750002,ts075,Multi religion household: One-person household
+Multi religion household,Multi-person household: No people stated their religion,NA,ts0750003,ts075,Multi religion household: Multi-person household: No people stated their religion
+Multi religion household,Multi-person household: Same religion (at least one person has stated a religion but the household may include people who did not state their religion),NA,ts0750004,ts075,Multi religion household: Multi-person household: Same religion (at least one person has stated a religion but the household may include people who did not state their religion)
+Multi religion household,Multi-person household: No religion (household may include people who did not state their religion),NA,ts0750005,ts075,Multi religion household: Multi-person household: No religion (household may include people who did not state their religion)
+Multi religion household,Multi-person household: Same religion and no religion (household may include people who did not state their religion),NA,ts0750006,ts075,Multi religion household: Multi-person household: Same religion and no religion (household may include people who did not state their religion)
+Multi religion household,Multi-person household: At least two different religions stated (household may include people with no religion and who did not state their religion),NA,ts0750007,ts075,Multi religion household: Multi-person household: At least two different religions stated (household may include people with no religion and who did not state their religion)
+Welsh language skills,Total: All usual residents aged 3 years and over,NA,ts0320001,ts032,Welsh language skills: Total: All usual residents aged 3 years and over
+Welsh language skills,Can understand spoken Welsh only,NA,ts0320002,ts032,Welsh language skills: Can understand spoken Welsh only
+Welsh language skills,"Can speak, read and write Welsh",NA,ts0320003,ts032,"Welsh language skills: Can speak, read and write Welsh"
+Welsh language skills,Can speak but cannot read or write Welsh,NA,ts0320004,ts032,Welsh language skills: Can speak but cannot read or write Welsh
+Welsh language skills,Can speak and read but cannot write Welsh,NA,ts0320005,ts032,Welsh language skills: Can speak and read but cannot write Welsh
+Welsh language skills,Can read but cannot speak or write Welsh,NA,ts0320006,ts032,Welsh language skills: Can read but cannot speak or write Welsh
+Welsh language skills,Can write but cannot speak or read Welsh,NA,ts0320007,ts032,Welsh language skills: Can write but cannot speak or read Welsh
+Welsh language skills,Can read and write but cannot speak Welsh,NA,ts0320008,ts032,Welsh language skills: Can read and write but cannot speak Welsh
+Welsh language skills,Can speak and other combinations of skills in Welsh,NA,ts0320009,ts032,Welsh language skills: Can speak and other combinations of skills in Welsh
+Welsh language skills,No skills in Welsh,NA,ts0320010,ts032,Welsh language skills: No skills in Welsh
+Welsh speaking ability,Total: All usual residents aged 3 years and over,NA,ts0330001,ts033,Welsh speaking ability: Total: All usual residents aged 3 years and over
+Welsh speaking ability,Cannot speak Welsh,NA,ts0330002,ts033,Welsh speaking ability: Cannot speak Welsh
+Welsh speaking ability,Can speak Welsh,NA,ts0330003,ts033,Welsh speaking ability: Can speak Welsh
+Welsh writing ability,Total: All usual residents aged 3 years and over,NA,ts0340001,ts034,Welsh writing ability: Total: All usual residents aged 3 years and over
+Welsh writing ability,Cannot write Welsh,NA,ts0340002,ts034,Welsh writing ability: Cannot write Welsh
+Welsh writing ability,Can write Welsh,NA,ts0340003,ts034,Welsh writing ability: Can write Welsh
+Welsh reading ability,Total: All usual residents aged 3 years and over,NA,ts0350001,ts035,Welsh reading ability: Total: All usual residents aged 3 years and over
+Welsh reading ability,Cannot read Welsh,NA,ts0350002,ts035,Welsh reading ability: Cannot read Welsh
+Welsh reading ability,Can read Welsh,NA,ts0350003,ts035,Welsh reading ability: Can read Welsh
+Welsh understanding ability,Total: All usual residents aged 3 years and over,NA,ts0360001,ts036,Welsh understanding ability: Total: All usual residents aged 3 years and over
+Welsh understanding ability,Cannot understand spoken Welsh,NA,ts0360002,ts036,Welsh understanding ability: Cannot understand spoken Welsh
+Welsh understanding ability,Can understand spoken Welsh,NA,ts0360003,ts036,Welsh understanding ability: Can understand spoken Welsh
+Distance travelled to work,Total: All usual residents aged 16 years and over in employment the week before the census,NA,ts0580001,ts058,Distance travelled to work: Total: All usual residents aged 16 years and over in employment the week before the census
+Distance travelled to work,Less than 2km,NA,ts0580002,ts058,Distance travelled to work: Less than 2km
+Distance travelled to work,2km to less than 5km,NA,ts0580003,ts058,Distance travelled to work: 2km to less than 5km
+Distance travelled to work,5km to less than 10km,NA,ts0580004,ts058,Distance travelled to work: 5km to less than 10km
+Distance travelled to work,10km to less than 20km,NA,ts0580005,ts058,Distance travelled to work: 10km to less than 20km
+Distance travelled to work,20km to less than 30km,NA,ts0580006,ts058,Distance travelled to work: 20km to less than 30km
+Distance travelled to work,30km to less than 40km,NA,ts0580007,ts058,Distance travelled to work: 30km to less than 40km
+Distance travelled to work,40km to less than 60km,NA,ts0580008,ts058,Distance travelled to work: 40km to less than 60km
+Distance travelled to work,60km and over,NA,ts0580009,ts058,Distance travelled to work: 60km and over
+Distance travelled to work,Works mainly from home,NA,ts0580010,ts058,Distance travelled to work: Works mainly from home
+Distance travelled to work,"Works mainly at an offshore installation, in no fixed place, or outside the UK",NA,ts0580011,ts058,"Distance travelled to work: Works mainly at an offshore installation, in no fixed place, or outside the UK"
+Hours worked,Total: All usual residents aged 16 years and over in employment the week before the census,NA,ts0590001,ts059,Hours worked: Total: All usual residents aged 16 years and over in employment the week before the census
+Hours worked,Part-time,NA,ts0590002,ts059,Hours worked: Part-time
+Hours worked,Part-time: 15 hours or less worked,NA,ts0590003,ts059,Hours worked: Part-time: 15 hours or less worked
+Hours worked,Part-time: 16 to 30 hours worked,NA,ts0590004,ts059,Hours worked: Part-time: 16 to 30 hours worked
+Hours worked,Full-time,NA,ts0590005,ts059,Hours worked: Full-time
+Hours worked,Full-time: 31 to 48 hours worked,NA,ts0590006,ts059,Hours worked: Full-time: 31 to 48 hours worked
+Hours worked,Full-time: 49 or more hours worked,NA,ts0590007,ts059,Hours worked: Full-time: 49 or more hours worked
+Method of travel to workplace,Total: All usual residents aged 16 years and over in employment the week before the census,NA,ts0610001,ts061,Method of travel to workplace: Total: All usual residents aged 16 years and over in employment the week before the census
+Method of travel to workplace,Work mainly at or from home,NA,ts0610002,ts061,Method of travel to workplace: Work mainly at or from home
+Method of travel to workplace,"Underground, metro, light rail, tram",NA,ts0610003,ts061,"Method of travel to workplace: Underground, metro, light rail, tram"
+Method of travel to workplace,Train,NA,ts0610004,ts061,Method of travel to workplace: Train
+Method of travel to workplace,"Bus, minibus or coach",NA,ts0610005,ts061,"Method of travel to workplace: Bus, minibus or coach"
+Method of travel to workplace,Taxi,NA,ts0610006,ts061,Method of travel to workplace: Taxi
+Method of travel to workplace,"Motorcycle, scooter or moped",NA,ts0610007,ts061,"Method of travel to workplace: Motorcycle, scooter or moped"
+Method of travel to workplace,Driving a car or van,NA,ts0610008,ts061,Method of travel to workplace: Driving a car or van
+Method of travel to workplace,Passenger in a car or van,NA,ts0610009,ts061,Method of travel to workplace: Passenger in a car or van
+Method of travel to workplace,Bicycle,NA,ts0610010,ts061,Method of travel to workplace: Bicycle
+Method of travel to workplace,On foot,NA,ts0610011,ts061,Method of travel to workplace: On foot
+Method of travel to workplace,Other method of travel to work,NA,ts0610012,ts061,Method of travel to workplace: Other method of travel to work
+National Statistics Socio-economic Classification (NS-SEC),National Statistics Socio-economic Classification (NS-SEC): Total: All usual residents aged 16 years and over,NA,ts0620001,ts062,National Statistics Socio-economic Classification (NS-SEC): Total: All usual residents aged 16 years and over
+National Statistics Socio-economic Classification (NS-SEC),"National Statistics Socio-economic Classification (NS-SEC): L1, L2 and L3 Higher managerial, administrative and professional occupations",NA,ts0620002,ts062,"National Statistics Socio-economic Classification (NS-SEC): L1, L2 and L3 Higher managerial, administrative and professional occupations"
+National Statistics Socio-economic Classification (NS-SEC),"National Statistics Socio-economic Classification (NS-SEC): L4, L5 and L6 Lower managerial, administrative and professional occupations",NA,ts0620003,ts062,"National Statistics Socio-economic Classification (NS-SEC): L4, L5 and L6 Lower managerial, administrative and professional occupations"
+National Statistics Socio-economic Classification (NS-SEC),National Statistics Socio-economic Classification (NS-SEC): L7 Intermediate occupations,NA,ts0620004,ts062,National Statistics Socio-economic Classification (NS-SEC): L7 Intermediate occupations
+National Statistics Socio-economic Classification (NS-SEC),National Statistics Socio-economic Classification (NS-SEC): L8 and L9 Small employers and own account workers,NA,ts0620005,ts062,National Statistics Socio-economic Classification (NS-SEC): L8 and L9 Small employers and own account workers
+National Statistics Socio-economic Classification (NS-SEC),National Statistics Socio-economic Classification (NS-SEC): L10 and L11 Lower supervisory and technical occupations,NA,ts0620006,ts062,National Statistics Socio-economic Classification (NS-SEC): L10 and L11 Lower supervisory and technical occupations
+National Statistics Socio-economic Classification (NS-SEC),National Statistics Socio-economic Classification (NS-SEC): L12 Semi-routine occupations,NA,ts0620007,ts062,National Statistics Socio-economic Classification (NS-SEC): L12 Semi-routine occupations
+National Statistics Socio-economic Classification (NS-SEC),National Statistics Socio-economic Classification (NS-SEC): L13 Routine occupations,NA,ts0620008,ts062,National Statistics Socio-economic Classification (NS-SEC): L13 Routine occupations
+National Statistics Socio-economic Classification (NS-SEC),National Statistics Socio-economic Classification (NS-SEC): L14.1 and L14.2 Never worked and long-term unemployed,NA,ts0620009,ts062,National Statistics Socio-economic Classification (NS-SEC): L14.1 and L14.2 Never worked and long-term unemployed
+National Statistics Socio-economic Classification (NS-SEC),National Statistics Socio-economic Classification (NS-SEC): L15 Full-time students,NA,ts0620010,ts062,National Statistics Socio-economic Classification (NS-SEC): L15 Full-time students
+Occupation (current),Occupation (current): Total: All usual residents aged 16 years and over in employment the week before the census,NA,ts0630001,ts063,Occupation (current): Total: All usual residents aged 16 years and over in employment the week before the census
+Occupation (current),"Occupation (current): 1. Managers, directors and senior officials",NA,ts0630002,ts063,"Occupation (current): 1. Managers, directors and senior officials"
+Occupation (current),Occupation (current): 2. Professional occupations,NA,ts0630003,ts063,Occupation (current): 2. Professional occupations
+Occupation (current),Occupation (current): 3. Associate professional and technical occupations,NA,ts0630004,ts063,Occupation (current): 3. Associate professional and technical occupations
+Occupation (current),Occupation (current): 4. Administrative and secretarial occupations,NA,ts0630005,ts063,Occupation (current): 4. Administrative and secretarial occupations
+Occupation (current),Occupation (current): 5. Skilled trades occupations,NA,ts0630006,ts063,Occupation (current): 5. Skilled trades occupations
+Occupation (current),"Occupation (current): 6. Caring, leisure and other service occupations",NA,ts0630007,ts063,"Occupation (current): 6. Caring, leisure and other service occupations"
+Occupation (current),Occupation (current): 7. Sales and customer service occupations,NA,ts0630008,ts063,Occupation (current): 7. Sales and customer service occupations
+Occupation (current),"Occupation (current): 8. Process, plant and machine operatives",NA,ts0630009,ts063,"Occupation (current): 8. Process, plant and machine operatives"
+Occupation (current),Occupation (current): 9. Elementary occupations,NA,ts0630010,ts063,Occupation (current): 9. Elementary occupations
+Unemployment history,Total: All usual residents aged 16 years and over not in employment the week before the census,NA,ts0650001,ts065,Unemployment history: Total: All usual residents aged 16 years and over not in employment the week before the census
+Unemployment history,Not in employment: Worked in the last 12 months,NA,ts0650002,ts065,Unemployment history: Not in employment: Worked in the last 12 months
+Unemployment history,Not in employment: Not worked in the last 12 months,NA,ts0650003,ts065,Unemployment history: Not in employment: Not worked in the last 12 months
+Unemployment history,Not in employment: Never worked,NA,ts0650004,ts065,Unemployment history: Not in employment: Never worked
+Economic activity status,Total: All usual residents aged 16 years and over,NA,ts0660001,ts066,Economic activity status: Total: All usual residents aged 16 years and over
+Economic activity status,Economically active (excluding full-time students),NA,ts0660002,ts066,Economic activity status: Economically active (excluding full-time students)
+Economic activity status,Economically active (excluding full-time students):In employment,NA,ts0660003,ts066,Economic activity status: Economically active (excluding full-time students):In employment
+Economic activity status,Economically active (excluding full-time students):In employment:Employee,NA,ts0660004,ts066,Economic activity status: Economically active (excluding full-time students):In employment:Employee
+Economic activity status,Economically active (excluding full-time students): In employment: Employee: Part-time,NA,ts0660005,ts066,Economic activity status: Economically active (excluding full-time students): In employment: Employee: Part-time
+Economic activity status,Economically active (excluding full-time students): In employment: Employee: Full-time,NA,ts0660006,ts066,Economic activity status: Economically active (excluding full-time students): In employment: Employee: Full-time
+Economic activity status,Economically active (excluding full-time students):In employment:Self-employed with employees,NA,ts0660007,ts066,Economic activity status: Economically active (excluding full-time students):In employment:Self-employed with employees
+Economic activity status,Economically active (excluding full-time students): In employment: Self-employed with employees: Part-time,NA,ts0660008,ts066,Economic activity status: Economically active (excluding full-time students): In employment: Self-employed with employees: Part-time
+Economic activity status,Economically active (excluding full-time students): In employment: Self-employed with employees: Full-time,NA,ts0660009,ts066,Economic activity status: Economically active (excluding full-time students): In employment: Self-employed with employees: Full-time
+Economic activity status,Economically active (excluding full-time students):In employment:Self-employed without employees,NA,ts0660010,ts066,Economic activity status: Economically active (excluding full-time students):In employment:Self-employed without employees
+Economic activity status,Economically active (excluding full-time students): In employment: Self-employed without employees: Part-time,NA,ts0660011,ts066,Economic activity status: Economically active (excluding full-time students): In employment: Self-employed without employees: Part-time
+Economic activity status,Economically active (excluding full-time students): In employment: Self-employed without employees: Full-time,NA,ts0660012,ts066,Economic activity status: Economically active (excluding full-time students): In employment: Self-employed without employees: Full-time
+Economic activity status,Economically active (excluding full-time students): Unemployed,NA,ts0660013,ts066,Economic activity status: Economically active (excluding full-time students): Unemployed
+Economic activity status,Economically active and a full-time student,NA,ts0660014,ts066,Economic activity status: Economically active and a full-time student
+Economic activity status,Economically active and a full-time student:In employment,NA,ts0660015,ts066,Economic activity status: Economically active and a full-time student:In employment
+Economic activity status,Economically active and a full-time student:In employment:Employee,NA,ts0660016,ts066,Economic activity status: Economically active and a full-time student:In employment:Employee
+Economic activity status,Economically active and a full-time student: In employment: Employee: Part-time,NA,ts0660017,ts066,Economic activity status: Economically active and a full-time student: In employment: Employee: Part-time
+Economic activity status,Economically active and a full-time student: In employment: Employee: Full-time,NA,ts0660018,ts066,Economic activity status: Economically active and a full-time student: In employment: Employee: Full-time
+Economic activity status,Economically active and a full-time student:In employment:Self-employed with employees,NA,ts0660019,ts066,Economic activity status: Economically active and a full-time student:In employment:Self-employed with employees
+Economic activity status,Economically active and a full-time student: In employment: Self-employed with employees: Part-time,NA,ts0660020,ts066,Economic activity status: Economically active and a full-time student: In employment: Self-employed with employees: Part-time
+Economic activity status,Economically active and a full-time student: In employment: Self-employed with employees: Full-time,NA,ts0660021,ts066,Economic activity status: Economically active and a full-time student: In employment: Self-employed with employees: Full-time
+Economic activity status,Economically active and a full-time student:In employment:Self-employed without employees,NA,ts0660022,ts066,Economic activity status: Economically active and a full-time student:In employment:Self-employed without employees
+Economic activity status,Economically active and a full-time student: In employment: Self-employed without employees: Part-time,NA,ts0660023,ts066,Economic activity status: Economically active and a full-time student: In employment: Self-employed without employees: Part-time
+Economic activity status,Economically active and a full-time student: In employment: Self-employed without employees: Full-time,NA,ts0660024,ts066,Economic activity status: Economically active and a full-time student: In employment: Self-employed without employees: Full-time
+Economic activity status,Economically active and a full-time student: Unemployed,NA,ts0660025,ts066,Economic activity status: Economically active and a full-time student: Unemployed
+Economic activity status,Economically inactive,NA,ts0660026,ts066,Economic activity status: Economically inactive
+Economic activity status,Economically inactive: Retired,NA,ts0660027,ts066,Economic activity status: Economically inactive: Retired
+Economic activity status,Economically inactive: Student,NA,ts0660028,ts066,Economic activity status: Economically inactive: Student
+Economic activity status,Economically inactive: Looking after home or family,NA,ts0660029,ts066,Economic activity status: Economically inactive: Looking after home or family
+Economic activity status,Economically inactive: Long-term sick or disabled,NA,ts0660030,ts066,Economic activity status: Economically inactive: Long-term sick or disabled
+Economic activity status,Economically inactive: Other,NA,ts0660031,ts066,Economic activity status: Economically inactive: Other

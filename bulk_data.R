@@ -44,7 +44,10 @@ no_oa_tables <- c("https://www.nomisweb.co.uk/output/census/2021/census2021-ts00
 "https://www.nomisweb.co.uk/output/census/2021/census2021-ts022.zip",
 "https://www.nomisweb.co.uk/output/census/2021/census2021-ts024.zip",
 "https://www.nomisweb.co.uk/output/census/2021/census2021-ts028.zip",
-"https://www.nomisweb.co.uk/output/census/2021/census2021-ts031.zip")
+"https://www.nomisweb.co.uk/output/census/2021/census2021-ts031.zip",
+"https://www.nomisweb.co.uk/output/census/2021/census2021-ts076.zip",
+"https://www.nomisweb.co.uk/output/census/2021/census2021-ts060.zip",
+"https://www.nomisweb.co.uk/output/census/2021/census2021-ts064.zip")
 
 # Create output directories for the census tables
 
@@ -52,6 +55,8 @@ dir.create("./output_data/csv",recursive = TRUE)
 dir.create("./output_data/parquet",recursive = TRUE)
 
 zip_urls <-  result <- setdiff(zip_urls, no_oa_tables)  # Remove the tables without OA
+
+zip_urls <- zip_urls[5:6]
 
 for (url in zip_urls){
 
@@ -68,7 +73,7 @@ assign(t_name,vroom(paste0("./tmp/",t_tab_loc),show_col_types = FALSE) %>%
          column_to_rownames("geography code")) #Move OA code to row names
  
 old_names <- colnames(get(t_name)) # Get the column names
-new_names <- paste0(t_name, "_", sprintf("%04d",seq_along(old_names)))  # Create some new column names with zero padding
+new_names <- paste0(t_name, sprintf("%04d",seq_along(all_of(old_names))))  # Create some new column names with zero padding
 
 # Create a list of the new and old names, plus Table ID
 N_list <- list(
@@ -114,5 +119,6 @@ meta_data_table2 <- meta_data_table %>%
   mutate(Variable_Name = str_replace_all(old_names, ";.*", "")) %>%
   mutate(Variable_Name = str_replace_all(Variable_Name, paste0(Table_Name,": "), ""))
 
+write_csv(meta_data_table2, "Table_Metadata.csv")
 
   
