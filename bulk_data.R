@@ -30,7 +30,7 @@ meta_data_table <- tibble(
 )
 
 
-# census2021-ts010.zip", - OA / other csv are blank?
+# These tables dont have OA data
 
 no_oa_tables <- c("https://www.nomisweb.co.uk/output/census/2021/census2021-ts007.zip",
 "https://www.nomisweb.co.uk/output/census/2021/census2021-ts009.zip",
@@ -47,7 +47,13 @@ no_oa_tables <- c("https://www.nomisweb.co.uk/output/census/2021/census2021-ts00
 "https://www.nomisweb.co.uk/output/census/2021/census2021-ts031.zip",
 "https://www.nomisweb.co.uk/output/census/2021/census2021-ts076.zip",
 "https://www.nomisweb.co.uk/output/census/2021/census2021-ts060.zip",
-"https://www.nomisweb.co.uk/output/census/2021/census2021-ts064.zip")
+"https://www.nomisweb.co.uk/output/census/2021/census2021-ts064.zip",
+"https://www.nomisweb.co.uk/output/census/2021/census2021-ts047.zip",
+"https://www.nomisweb.co.uk/output/census/2021/census2021-ts048.zip",
+"https://www.nomisweb.co.uk/output/census/2021/census2021-ts079.zip",
+"https://www.nomisweb.co.uk/output/census/2021/census2021-ts070.zip",
+"https://www.nomisweb.co.uk/output/census/2021/census2021-ts077.zip",
+"https://www.nomisweb.co.uk/output/census/2021/census2021-ts078.zip")
 
 # Create output directories for the census tables
 
@@ -55,8 +61,6 @@ dir.create("./output_data/csv",recursive = TRUE)
 dir.create("./output_data/parquet",recursive = TRUE)
 
 zip_urls <-  result <- setdiff(zip_urls, no_oa_tables)  # Remove the tables without OA
-
-zip_urls <- zip_urls[5:6]
 
 for (url in zip_urls){
 
