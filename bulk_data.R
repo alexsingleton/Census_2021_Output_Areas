@@ -11,7 +11,11 @@ html_page <- read_html("https://www.nomisweb.co.uk/sources/census_2021_bulk")
 # Get census table zip file names
 zip_urls <- html_page %>% 
             html_nodes("a[href$='.zip']") %>% 
-            html_attr("href")
+            html_attr("href") %>%
+            str_subset(pattern = "^(?!.*extra.zip)")
+
+
+            
 
 # Make zip file names into a full URL
 zip_urls <- paste0("https://www.nomisweb.co.uk",zip_urls)
@@ -53,7 +57,10 @@ no_oa_tables <- c("https://www.nomisweb.co.uk/output/census/2021/census2021-ts00
 "https://www.nomisweb.co.uk/output/census/2021/census2021-ts079.zip",
 "https://www.nomisweb.co.uk/output/census/2021/census2021-ts070.zip",
 "https://www.nomisweb.co.uk/output/census/2021/census2021-ts077.zip",
-"https://www.nomisweb.co.uk/output/census/2021/census2021-ts078.zip")
+"https://www.nomisweb.co.uk/output/census/2021/census2021-ts078.zip",
+"https://www.nomisweb.co.uk/output/census/2021/census2021-ts037asp.zip",
+"https://www.nomisweb.co.uk/output/census/2021/census2021-ts038asp.zip",
+"https://www.nomisweb.co.uk/output/census/2021/census2021-ts039asp.zip")
 
 # Create output directories for the census tables
 
