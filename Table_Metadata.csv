@@ -2,6 +2,9 @@ Table_Name,Variable_Name,Type,new_names,Table_ID,old_names
 Residence type,Total,Value,ts0010001,ts001,Residence type: Total; measures: Value
 Residence type,Lives in a household,Value,ts0010002,ts001,Residence type: Lives in a household; measures: Value
 Residence type,Lives in a communal establishment,Value,ts0010003,ts001,Residence type: Lives in a communal establishment; measures: Value
+Residence type,Total,Value,ts0010001,ts001,Residence type: Total; measures: Value
+Residence type,Lives in a household,Value,ts0010002,ts001,Residence type: Lives in a household; measures: Value
+Residence type,Lives in a communal establishment,Value,ts0010003,ts001,Residence type: Lives in a communal establishment; measures: Value
 Marital and civil partnership status,Total,Value,ts0020001,ts002,Marital and civil partnership status: Total; measures: Value
 Marital and civil partnership status,Never married and never registered a civil partnership,Value,ts0020002,ts002,Marital and civil partnership status: Never married and never registered a civil partnership; measures: Value
 Marital and civil partnership status,Married or in a registered civil partnership,Value,ts0020003,ts002,Marital and civil partnership status: Married or in a registered civil partnership; measures: Value
@@ -92,6 +95,25 @@ Passports held,"Antarctica and Oceania, including Australasia",Value,ts0050032,t
 Passports held,British Overseas Territories,Value,ts0050033,ts005,Passports held: British Overseas Territories; measures: Value
 Passports held,No passport held,Value,ts0050034,ts005,Passports held: No passport held; measures: Value
 Population Density,Persons per square kilometre,Value,ts0060001,ts006,Population Density: Persons per square kilometre; measures: Value
+Age,Total,NA,ts007a0001,ts007a,Age: Total
+Age,Aged 4 years and under,NA,ts007a0002,ts007a,Age: Aged 4 years and under
+Age,Aged 5 to 9 years,NA,ts007a0003,ts007a,Age: Aged 5 to 9 years
+Age,Aged 10 to 14 years,NA,ts007a0004,ts007a,Age: Aged 10 to 14 years
+Age,Aged 15 to 19 years,NA,ts007a0005,ts007a,Age: Aged 15 to 19 years
+Age,Aged 20 to 24 years,NA,ts007a0006,ts007a,Age: Aged 20 to 24 years
+Age,Aged 25 to 29 years,NA,ts007a0007,ts007a,Age: Aged 25 to 29 years
+Age,Aged 30 to 34 years,NA,ts007a0008,ts007a,Age: Aged 30 to 34 years
+Age,Aged 35 to 39 years,NA,ts007a0009,ts007a,Age: Aged 35 to 39 years
+Age,Aged 40 to 44 years,NA,ts007a0010,ts007a,Age: Aged 40 to 44 years
+Age,Aged 45 to 49 years,NA,ts007a0011,ts007a,Age: Aged 45 to 49 years
+Age,Aged 50 to 54 years,NA,ts007a0012,ts007a,Age: Aged 50 to 54 years
+Age,Aged 55 to 59 years,NA,ts007a0013,ts007a,Age: Aged 55 to 59 years
+Age,Aged 60 to 64 years,NA,ts007a0014,ts007a,Age: Aged 60 to 64 years
+Age,Aged 65 to 69 years,NA,ts007a0015,ts007a,Age: Aged 65 to 69 years
+Age,Aged 70 to 74 years,NA,ts007a0016,ts007a,Age: Aged 70 to 74 years
+Age,Aged 75 to 79 years,NA,ts007a0017,ts007a,Age: Aged 75 to 79 years
+Age,Aged 80 to 84 years,NA,ts007a0018,ts007a,Age: Aged 80 to 84 years
+Age,Aged 85 years and over,NA,ts007a0019,ts007a,Age: Aged 85 years and over
 Sex,All persons,Value,ts0080001,ts008,Sex: All persons; measures: Value
 Sex,Female,Value,ts0080002,ts008,Sex: Female; measures: Value
 Sex,Male,Value,ts0080003,ts008,Sex: Male; measures: Value
@@ -351,3 +373,121 @@ Economic activity status,Economically inactive: Student,NA,ts0660028,ts066,Econo
 Economic activity status,Economically inactive: Looking after home or family,NA,ts0660029,ts066,Economic activity status: Economically inactive: Looking after home or family
 Economic activity status,Economically inactive: Long-term sick or disabled,NA,ts0660030,ts066,Economic activity status: Economically inactive: Long-term sick or disabled
 Economic activity status,Economically inactive: Other,NA,ts0660031,ts066,Economic activity status: Economically inactive: Other
+Accommodation type,Total: All households,NA,ts0440001,ts044,Accommodation type: Total: All households
+Accommodation type,Detached,NA,ts0440002,ts044,Accommodation type: Detached
+Accommodation type,Semi-detached,NA,ts0440003,ts044,Accommodation type: Semi-detached
+Accommodation type,Terraced,NA,ts0440004,ts044,Accommodation type: Terraced
+Accommodation type,In a purpose-built block of flats or tenement,NA,ts0440005,ts044,Accommodation type: In a purpose-built block of flats or tenement
+Accommodation type,"Part of a converted or shared house, including bedsits",NA,ts0440006,ts044,"Accommodation type: Part of a converted or shared house, including bedsits"
+Accommodation type,"Part of another converted building, for example, former school, church or warehouse",NA,ts0440007,ts044,"Accommodation type: Part of another converted building, for example, former school, church or warehouse"
+Accommodation type,"In a commercial building, for example, in an office building, hotel or over a shop",NA,ts0440008,ts044,"Accommodation type: In a commercial building, for example, in an office building, hotel or over a shop"
+Accommodation type,A caravan or other mobile or temporary structure,NA,ts0440009,ts044,Accommodation type: A caravan or other mobile or temporary structure
+Number of cars or vans,Total: All households,NA,ts0450001,ts045,Number of cars or vans: Total: All households
+Number of cars or vans,No cars or vans in household,NA,ts0450002,ts045,Number of cars or vans: No cars or vans in household
+Number of cars or vans,1 car or van in household,NA,ts0450003,ts045,Number of cars or vans: 1 car or van in household
+Number of cars or vans,2 cars or vans in household,NA,ts0450004,ts045,Number of cars or vans: 2 cars or vans in household
+Number of cars or vans,3 or more cars or vans in household,NA,ts0450005,ts045,Number of cars or vans: 3 or more cars or vans in household
+Type of central heating in household,Total: All households,NA,ts0460001,ts046,Type of central heating in household: Total: All households
+Type of central heating in household,No central heating,NA,ts0460002,ts046,Type of central heating in household: No central heating
+Type of central heating in household,Mains gas only,NA,ts0460003,ts046,Type of central heating in household: Mains gas only
+Type of central heating in household,Tank or bottled gas only,NA,ts0460004,ts046,Type of central heating in household: Tank or bottled gas only
+Type of central heating in household,Electric only,NA,ts0460005,ts046,Type of central heating in household: Electric only
+Type of central heating in household,Oil only,NA,ts0460006,ts046,Type of central heating in household: Oil only
+Type of central heating in household,Wood only,NA,ts0460007,ts046,Type of central heating in household: Wood only
+Type of central heating in household,Solid fuel only,NA,ts0460008,ts046,Type of central heating in household: Solid fuel only
+Type of central heating in household,Renewable energy only,NA,ts0460009,ts046,Type of central heating in household: Renewable energy only
+Type of central heating in household,District or communal heat networks only,NA,ts0460010,ts046,Type of central heating in household: District or communal heat networks only
+Type of central heating in household,Other central heating only,NA,ts0460011,ts046,Type of central heating in household: Other central heating only
+Type of central heating in household,Two or more types of central heating (not including renewable energy),NA,ts0460012,ts046,Type of central heating in household: Two or more types of central heating (not including renewable energy)
+Type of central heating in household,Two or more types of central heating (including renewable energy),NA,ts0460013,ts046,Type of central heating in household: Two or more types of central heating (including renewable energy)
+Number of bedrooms,Total: All households,NA,ts0500001,ts050,Number of bedrooms: Total: All households
+Number of bedrooms,1 bedroom,NA,ts0500002,ts050,Number of bedrooms: 1 bedroom
+Number of bedrooms,2 bedrooms,NA,ts0500003,ts050,Number of bedrooms: 2 bedrooms
+Number of bedrooms,3 bedrooms,NA,ts0500004,ts050,Number of bedrooms: 3 bedrooms
+Number of bedrooms,4 or more bedrooms,NA,ts0500005,ts050,Number of bedrooms: 4 or more bedrooms
+Number of rooms (VOA),Number of rooms (VOA): Total: All households,NA,ts0510001,ts051,Number of rooms (VOA): Total: All households
+Number of rooms (VOA),Number of rooms (VOA): 1 room,NA,ts0510002,ts051,Number of rooms (VOA): 1 room
+Number of rooms (VOA),Number of rooms (VOA): 2 rooms,NA,ts0510003,ts051,Number of rooms (VOA): 2 rooms
+Number of rooms (VOA),Number of rooms (VOA): 3 rooms,NA,ts0510004,ts051,Number of rooms (VOA): 3 rooms
+Number of rooms (VOA),Number of rooms (VOA): 4 rooms,NA,ts0510005,ts051,Number of rooms (VOA): 4 rooms
+Number of rooms (VOA),Number of rooms (VOA): 5 rooms,NA,ts0510006,ts051,Number of rooms (VOA): 5 rooms
+Number of rooms (VOA),Number of rooms (VOA): 6 rooms,NA,ts0510007,ts051,Number of rooms (VOA): 6 rooms
+Number of rooms (VOA),Number of rooms (VOA): 7 rooms,NA,ts0510008,ts051,Number of rooms (VOA): 7 rooms
+Number of rooms (VOA),Number of rooms (VOA): 8 rooms,NA,ts0510009,ts051,Number of rooms (VOA): 8 rooms
+Number of rooms (VOA),Number of rooms (VOA): 9 or more rooms,NA,ts0510010,ts051,Number of rooms (VOA): 9 or more rooms
+Occupancy rating for bedrooms,Total: All households,NA,ts0520001,ts052,Occupancy rating for bedrooms: Total: All households
+Occupancy rating for bedrooms,Occupancy rating of bedrooms: +2 or more,NA,ts0520002,ts052,Occupancy rating for bedrooms: Occupancy rating of bedrooms: +2 or more
+Occupancy rating for bedrooms,Occupancy rating of bedrooms: +1,NA,ts0520003,ts052,Occupancy rating for bedrooms: Occupancy rating of bedrooms: +1
+Occupancy rating for bedrooms,Occupancy rating of bedrooms: 0,NA,ts0520004,ts052,Occupancy rating for bedrooms: Occupancy rating of bedrooms: 0
+Occupancy rating for bedrooms,Occupancy rating of bedrooms: -1,NA,ts0520005,ts052,Occupancy rating for bedrooms: Occupancy rating of bedrooms: -1
+Occupancy rating for bedrooms,Occupancy rating of bedrooms: -2 or less,NA,ts0520006,ts052,Occupancy rating for bedrooms: Occupancy rating of bedrooms: -2 or less
+Occupancy rating for rooms,Total: All households,NA,ts0530001,ts053,Occupancy rating for rooms: Total: All households
+Occupancy rating for rooms,Occupancy rating of rooms: +2 or more,NA,ts0530002,ts053,Occupancy rating for rooms: Occupancy rating of rooms: +2 or more
+Occupancy rating for rooms,Occupancy rating of rooms: +1,NA,ts0530003,ts053,Occupancy rating for rooms: Occupancy rating of rooms: +1
+Occupancy rating for rooms,Occupancy rating of rooms: 0,NA,ts0530004,ts053,Occupancy rating for rooms: Occupancy rating of rooms: 0
+Occupancy rating for rooms,Occupancy rating of rooms: -1,NA,ts0530005,ts053,Occupancy rating for rooms: Occupancy rating of rooms: -1
+Occupancy rating for rooms,Occupancy rating of rooms: -2 or less,NA,ts0530006,ts053,Occupancy rating for rooms: Occupancy rating of rooms: -2 or less
+Tenure of household,Total: All households,NA,ts0540001,ts054,Tenure of household: Total: All households
+Tenure of household,Owned,NA,ts0540002,ts054,Tenure of household: Owned
+Tenure of household,Owned: Owns outright,NA,ts0540003,ts054,Tenure of household: Owned: Owns outright
+Tenure of household,Owned: Owns with a mortgage or loan,NA,ts0540004,ts054,Tenure of household: Owned: Owns with a mortgage or loan
+Tenure of household,Shared ownership,NA,ts0540005,ts054,Tenure of household: Shared ownership
+Tenure of household,Shared ownership: Shared ownership,NA,ts0540006,ts054,Tenure of household: Shared ownership: Shared ownership
+Tenure of household,Social rented,NA,ts0540007,ts054,Tenure of household: Social rented
+Tenure of household,Social rented: Rents from council or Local Authority,NA,ts0540008,ts054,Tenure of household: Social rented: Rents from council or Local Authority
+Tenure of household,Social rented: Other social rented,NA,ts0540009,ts054,Tenure of household: Social rented: Other social rented
+Tenure of household,Private rented,NA,ts0540010,ts054,Tenure of household: Private rented
+Tenure of household,Private rented: Private landlord or letting agency,NA,ts0540011,ts054,Tenure of household: Private rented: Private landlord or letting agency
+Tenure of household,Private rented: Other private rented,NA,ts0540012,ts054,Tenure of household: Private rented: Other private rented
+Tenure of household,Lives rent free,NA,ts0540013,ts054,Tenure of household: Lives rent free
+Second address type,Total: All usual residents,NA,ts0550001,ts055,Second address type: Total: All usual residents
+Second address type,Armed forces base address,NA,ts0550002,ts055,Second address type: Armed forces base address
+Second address type,Another address when working away from home,NA,ts0550003,ts055,Second address type: Another address when working away from home
+Second address type,Holiday home,NA,ts0550004,ts055,Second address type: Holiday home
+Second address type,Student's term-time address,NA,ts0550005,ts055,Second address type: Student's term-time address
+Second address type,Student's home address,NA,ts0550006,ts055,Second address type: Student's home address
+Second address type,Another parent or guardian's address,NA,ts0550007,ts055,Second address type: Another parent or guardian's address
+Second address type,Partner's address,NA,ts0550008,ts055,Second address type: Partner's address
+Second address type,Other,NA,ts0550009,ts055,Second address type: Other
+Second address type,Second address type not specified,NA,ts0550010,ts055,Second address type: Second address type not specified
+Second address indicator,Total: All usual residents,NA,ts0560001,ts056,Second address indicator: Total: All usual residents
+Second address indicator,No second address,NA,ts0560002,ts056,Second address indicator: No second address
+Second address indicator,Second address is in the UK,NA,ts0560003,ts056,Second address indicator: Second address is in the UK
+Second address indicator,Second address is outside the UK,NA,ts0560004,ts056,Second address indicator: Second address is outside the UK
+Highest level of qualification,Total: All usual residents aged 16 years and over,NA,ts0670001,ts067,Highest level of qualification: Total: All usual residents aged 16 years and over
+Highest level of qualification,No qualifications,NA,ts0670002,ts067,Highest level of qualification: No qualifications
+Highest level of qualification,Level 1 and entry level qualifications,NA,ts0670003,ts067,Highest level of qualification: Level 1 and entry level qualifications
+Highest level of qualification,Level 2 qualifications,NA,ts0670004,ts067,Highest level of qualification: Level 2 qualifications
+Highest level of qualification,Apprenticeship,NA,ts0670005,ts067,Highest level of qualification: Apprenticeship
+Highest level of qualification,Level 3 qualifications,NA,ts0670006,ts067,Highest level of qualification: Level 3 qualifications
+Highest level of qualification,Level 4 qualifications and above,NA,ts0670007,ts067,Highest level of qualification: Level 4 qualifications and above
+Highest level of qualification,Other qualifications,NA,ts0670008,ts067,Highest level of qualification: Other qualifications
+Schoolchild or full-time student indicator,Total: All usual residents aged 5 years and over,NA,ts0680001,ts068,Schoolchild or full-time student indicator: Total: All usual residents aged 5 years and over
+Schoolchild or full-time student indicator,Student,NA,ts0680002,ts068,Schoolchild or full-time student indicator: Student
+Schoolchild or full-time student indicator,Not a student,NA,ts0680003,ts068,Schoolchild or full-time student indicator: Not a student
+General health,Total: All usual residents,NA,ts0370001,ts037,General health: Total: All usual residents
+General health,Very good health,NA,ts0370002,ts037,General health: Very good health
+General health,Good health,NA,ts0370003,ts037,General health: Good health
+General health,Fair health,NA,ts0370004,ts037,General health: Fair health
+General health,Bad health,NA,ts0370005,ts037,General health: Bad health
+General health,Very bad health,NA,ts0370006,ts037,General health: Very bad health
+Disability,Total: All usual residents,NA,ts0380001,ts038,Disability: Total: All usual residents
+Disability,Disabled under the Equality Act,NA,ts0380002,ts038,Disability: Disabled under the Equality Act
+Disability,Disabled under the Equality Act: Day-to-day activities limited a lot,NA,ts0380003,ts038,Disability: Disabled under the Equality Act: Day-to-day activities limited a lot
+Disability,Disabled under the Equality Act: Day-to-day activities limited a little,NA,ts0380004,ts038,Disability: Disabled under the Equality Act: Day-to-day activities limited a little
+Disability,Not disabled under the Equality Act,NA,ts0380005,ts038,Disability: Not disabled under the Equality Act
+Disability,Not disabled under the Equality Act: Has long term physical or mental health condition but day-to-day activities are not limited,NA,ts0380006,ts038,Disability: Not disabled under the Equality Act: Has long term physical or mental health condition but day-to-day activities are not limited
+Disability,Not disabled under the Equality Act: No long term physical or mental health conditions,NA,ts0380007,ts038,Disability: Not disabled under the Equality Act: No long term physical or mental health conditions
+Provision of unpaid care,Total: All usual residents aged 5 and over,NA,ts0390001,ts039,Provision of unpaid care: Total: All usual residents aged 5 and over
+Provision of unpaid care,Provides no unpaid care,NA,ts0390002,ts039,Provision of unpaid care: Provides no unpaid care
+Provision of unpaid care,Provides 19 hours or less unpaid care a week,NA,ts0390003,ts039,Provision of unpaid care: Provides 19 hours or less unpaid care a week
+Provision of unpaid care,Provides 9 hours or less unpaid care a week,NA,ts0390004,ts039,Provision of unpaid care: Provides 9 hours or less unpaid care a week
+Provision of unpaid care,Provides 10 to 19 hours unpaid care a week,NA,ts0390005,ts039,Provision of unpaid care: Provides 10 to 19 hours unpaid care a week
+Provision of unpaid care,Provides 20 to 49 hours unpaid care a week,NA,ts0390006,ts039,Provision of unpaid care: Provides 20 to 49 hours unpaid care a week
+Provision of unpaid care,Provides 20 to 34 hours unpaid care a week,NA,ts0390007,ts039,Provision of unpaid care: Provides 20 to 34 hours unpaid care a week
+Provision of unpaid care,Provides 35 to 49 hours unpaid care a week,NA,ts0390008,ts039,Provision of unpaid care: Provides 35 to 49 hours unpaid care a week
+Provision of unpaid care,Provides 50 or more hours unpaid care a week,NA,ts0390009,ts039,Provision of unpaid care: Provides 50 or more hours unpaid care a week
+Number of disabled people in household,Total: All households,NA,ts0400001,ts040,Number of disabled people in household: Total: All households
+Number of disabled people in household,No people disabled under the Equality Act in household,NA,ts0400002,ts040,Number of disabled people in household: No people disabled under the Equality Act in household
+Number of disabled people in household,1 person disabled under the Equality Act in household,NA,ts0400003,ts040,Number of disabled people in household: 1 person disabled under the Equality Act in household
+Number of disabled people in household,2 or more people disabled under the Equality Act in household,NA,ts0400004,ts040,Number of disabled people in household: 2 or more people disabled under the Equality Act in household
