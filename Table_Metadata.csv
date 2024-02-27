@@ -2,9 +2,6 @@ Table_Name,Variable_Name,Type,new_names,Table_ID,old_names
 Residence type,Total,Value,ts0010001,ts001,Residence type: Total; measures: Value
 Residence type,Lives in a household,Value,ts0010002,ts001,Residence type: Lives in a household; measures: Value
 Residence type,Lives in a communal establishment,Value,ts0010003,ts001,Residence type: Lives in a communal establishment; measures: Value
-Residence type,Total,Value,ts0010001,ts001,Residence type: Total; measures: Value
-Residence type,Lives in a household,Value,ts0010002,ts001,Residence type: Lives in a household; measures: Value
-Residence type,Lives in a communal establishment,Value,ts0010003,ts001,Residence type: Lives in a communal establishment; measures: Value
 Marital and civil partnership status,Total,Value,ts0020001,ts002,Marital and civil partnership status: Total; measures: Value
 Marital and civil partnership status,Never married and never registered a civil partnership,Value,ts0020002,ts002,Marital and civil partnership status: Never married and never registered a civil partnership; measures: Value
 Marital and civil partnership status,Married or in a registered civil partnership,Value,ts0020003,ts002,Marital and civil partnership status: Married or in a registered civil partnership; measures: Value
